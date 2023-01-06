@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {}
+    "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {}
   },
   "projects": {
-    "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {
+    "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

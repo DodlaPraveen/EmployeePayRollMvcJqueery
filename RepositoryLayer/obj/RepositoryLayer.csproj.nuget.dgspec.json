@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CFP\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj": {}
+    "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj": {}
   },
   "projects": {
-    "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {
+    "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "G:\\CFP\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CFP\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "G:\\CFP\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "G:\\CFP\\EmpPayRollmvc\\RepositoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "G:\\CFP\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj"
+              "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\AJAX\\EmpPayRollmvc\\ModelLayer\\ModelLayer.csproj"
               }
             }
           }

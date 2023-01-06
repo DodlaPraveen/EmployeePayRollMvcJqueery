@@ -16,12 +16,34 @@ namespace EmpPayRollmvc.Controllers
         {
             this.empBl = empBl;
         }
+        [HttpGet]
         public IActionResult Index()
         {
             List<EmployeeModel> lstEmployee = new List<EmployeeModel>();
             lstEmployee = empBl.getEmployeeList().ToList();
 
             return View(lstEmployee);
+        }
+        public IActionResult NewIndex()
+        {
+            List<EmployeeModel> lstEmployee = new List<EmployeeModel>();
+            lstEmployee = empBl.getEmployeeList().ToList();
+
+            return View(lstEmployee);
+        }
+        [HttpGet]
+        public JsonResult GetAllEmployees()
+        {
+            List<EmployeeModel> lstEmployee = new List<EmployeeModel>();
+            lstEmployee = empBl.getEmployeeList().ToList();
+
+            return Json(lstEmployee);
+        }
+        [HttpPost]
+        public JsonResult AddEmployee(EmployeeModel employeemodel)
+        {
+            empBl.AddEmployee(employeemodel);
+            return Json(employeemodel);
         }
         [HttpGet]
         public IActionResult Create()

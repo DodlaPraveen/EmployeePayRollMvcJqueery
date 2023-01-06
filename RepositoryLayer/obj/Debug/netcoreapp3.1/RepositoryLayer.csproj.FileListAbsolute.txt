@@ -11,3 +11,16 @@ G:\CFP\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csp
 G:\CFP\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
 G:\CFP\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
 G:\CFP\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\HP\Desktop\AJAX\EmpPayRollmvc\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb

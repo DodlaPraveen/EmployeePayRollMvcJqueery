@@ -1,0 +1,86 @@
+﻿
+<button type="button" id="btnmodel" style="display:none" class="btn btn-primary" data-toggle="modal" data-target="#EmployeeModel">
+    Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="EmployeeModel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Add/Edit</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-lg-3">
+                        <label>EMPID</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input id="txtEMPID" disabled="disabled" class="form-control" />
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>IMG</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input id="txtIMG" class="form-control" />
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>NAME</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input id="txtNAME" class="form-control" />
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>GENDER</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <select id="txtGENDER" class="form-control">
+                            <option>Male</option>
+                            <option>Female</option>
+                        </select>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>DEPARTMENT</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input id="txtDEPARTMENT" class="form-control" />
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>SALARY</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input id="txtSALARY" class="form-control" />
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>START_DATE</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input  id="txtSTART_DATE" class="form-control" />
+                    </div>
+
+                    <div class="col-lg-3">
+                        <label>NOTES</label>
+                    </div>
+                    <div class="col-lg-9">
+                        <input id="txtNOTES" class="form-control" />
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button href="#" type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button href="#" onclick="Create(); return false;" type="button" class="btn btn-primary">Create</button>
+            </div>
+        </div>
+    </div>
+</div>
